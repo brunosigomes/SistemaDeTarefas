@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
+﻿using Microsoft.IdentityModel.Tokens;
 using SistemaDeTarefas.Data;
 using SistemaDeTarefas.Models;
 using SistemaDeTarefas.Repositorios.Interfaces;
